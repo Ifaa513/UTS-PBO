@@ -195,6 +195,42 @@ Fungsi ini berfungsi agar saat pengguna menekan tombol INSERT, data mata kuliah 
         txtSKS.setText(tblData.getValueAt(row, 2).toString());
         txtSem.setText(tblData.getValueAt(row, 3).toString());    
         }
-  ### 11. 🌟 [DbUtils]()
+  ### 11. 🌟 [DbUtils](https://github.com/Ifaa513/UTS-PBO/blob/main/DbUtils.java)
   Program ini adalah sebuah utility class bernama DbUtils yang menyediakan metode untuk mengubah hasil query dari database berupa ResultSet menjadi objek TableModel. TableModel digunakan untuk menampilkan data dalam komponen GUI seperti JTable di Java Swing.
 
+# Penerapan 🔥
+## 1. 📥 Insert data
+Masukkan data
+
+![Screenshot (471)](https://github.com/user-attachments/assets/5572b49d-9adf-462d-b5e8-9291d26365bc)
+
+Klik tombol Insert, maka akan keluar notifikasi
+
+![Screenshot (472)](https://github.com/user-attachments/assets/270fdcc2-470d-401d-a0c9-2cc16be23e3b)
+
+Data yang telah diinputkan pun akan disimpan di dalam database, dan ditampilan di tabel
+
+![Screenshot (473)](https://github.com/user-attachments/assets/3cdffaad-c477-4487-b6c8-1bc1baa855de)
+
+## 2. 🔄 Update data
+Klik tabel pada baris yang ingin diubah, masukkan data baru
+
+![Screenshot (474)](https://github.com/user-attachments/assets/8c7d845c-9ac0-41d2-9a74-d24a5bbc3d5b)
+
+Klik tombol update, maka akan keluar notifikasi
+
+![Screenshot (475)](https://github.com/user-attachments/assets/0ca80d74-9568-403c-8334-7a368b2e84c2)
+
+Data pun terimpan, dan ditampilkan dalam tabel
+
+![Screenshot (476)](https://github.com/user-attachments/assets/13b4eeec-9653-48b5-96df-7ee885562a62)
+
+## 3. 🗑️ Delete
+
+Klik tabel pada baris yang ingin dihapus, lalu pencet tombol delete
+
+![Screenshot (477)](https://github.com/user-attachments/assets/ddfecf91-bfe9-4ffd-b242-3e8be9b034b4)
+
+Data pun berhasil terhapus
+
+![Screenshot (478)](https://github.com/user-attachments/assets/3d770209-9f47-40e7-8233-651619bda1df)
