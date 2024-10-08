@@ -12,9 +12,9 @@ Program ini merupakan implementasi operasi CRUD (Create, Read, Update, dan Delet
 ### 3. 🖍️ Buat JFrameForm
 Berikut rincian properties yang digunakan:
 1. 🏷️ Gunakan label untuk judul tabel (Mata Kuliah), Kode MK, Nama MK, SKS, dan Semester Ajar
-📝 Gunakan text field untuk field data Kode MK, Nama MK, SKS, dan Semester Ajar
-🔘 Gunakan button untuk tombol INSERT, UPDATE, DELETE, dan CLEAR
-📊 Gunakan table untuk tampilan Mata Kuliah
+2. 📝 Gunakan text field untuk field data Kode MK, Nama MK, SKS, dan Semester Ajar
+3. 🔘 Gunakan button untuk tombol INSERT, UPDATE, DELETE, dan CLEAR
+4. 📊 Gunakan table untuk tampilan Mata Kuliah
 ### 4. 🔗 Koneksikan dengan database
 
     Connection conn;
