@@ -202,35 +202,35 @@ Fungsi ini berfungsi agar saat pengguna menekan tombol INSERT, data mata kuliah 
 ## 1. 📥 Insert data
 Masukkan data
 
-![Screenshot (471)](https://github.com/user-attachments/assets/5572b49d-9adf-462d-b5e8-9291d26365bc)
+![Screenshot (480)](https://github.com/user-attachments/assets/1a2ec473-eb9f-4a40-b2b9-ede80cb27556)
 
 Klik tombol Insert, maka akan keluar notifikasi
 
-![Screenshot (472)](https://github.com/user-attachments/assets/270fdcc2-470d-401d-a0c9-2cc16be23e3b)
+![Screenshot (481)](https://github.com/user-attachments/assets/327e5909-524b-4c27-b079-1a730f1de2de)
 
 Data yang telah diinputkan pun akan disimpan di dalam database, dan ditampilan di tabel
 
-![Screenshot (473)](https://github.com/user-attachments/assets/3cdffaad-c477-4487-b6c8-1bc1baa855de)
+![Screenshot (482)](https://github.com/user-attachments/assets/030f3f03-7af5-4023-b08f-b633c8877cc9)
 
 ## 2. 🔄 Update data
 Klik tabel pada baris yang ingin diubah, masukkan data baru
 
-![Screenshot (474)](https://github.com/user-attachments/assets/8c7d845c-9ac0-41d2-9a74-d24a5bbc3d5b)
+![Screenshot (483)](https://github.com/user-attachments/assets/084fb3ee-5686-4745-8c15-cb5b85942d5f)
 
 Klik tombol update, maka akan keluar notifikasi
 
-![Screenshot (475)](https://github.com/user-attachments/assets/0ca80d74-9568-403c-8334-7a368b2e84c2)
+![Screenshot (484)](https://github.com/user-attachments/assets/d69f27ad-a50a-4da9-be2b-f6914bf29d97)
 
 Data pun terimpan, dan ditampilkan dalam tabel
 
-![Screenshot (476)](https://github.com/user-attachments/assets/13b4eeec-9653-48b5-96df-7ee885562a62)
+![Screenshot (485)](https://github.com/user-attachments/assets/5c55fb7d-b863-4c2a-b2b6-d9931f5889c0)
 
 ## 3. 🗑️ Delete
 
 Klik tabel pada baris yang ingin dihapus, lalu pencet tombol delete
 
-![Screenshot (477)](https://github.com/user-attachments/assets/ddfecf91-bfe9-4ffd-b242-3e8be9b034b4)
+![Screenshot (488)](https://github.com/user-attachments/assets/a124cb53-2e04-4f57-84b5-2733206b16d8)
 
 Data pun berhasil terhapus
 
-![Screenshot (478)](https://github.com/user-attachments/assets/3d770209-9f47-40e7-8233-651619bda1df)
+![Screenshot (489)](https://github.com/user-attachments/assets/f6bfe826-bef2-42d9-ad7a-ac794a11f83f)
